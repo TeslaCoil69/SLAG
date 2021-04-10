@@ -1,0 +1,8 @@
+name: "SLAG"
+displayName: "SLAG"
+author: TeslaCoil
+description: "a mod that allows you to turn copper into slag, since many maps are missing this resource"
+version: "1.0"
+minGameVersion: "126.2"
+dependencies: [ ]
+hidden: false
