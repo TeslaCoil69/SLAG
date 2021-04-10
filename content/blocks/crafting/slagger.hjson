@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: Slagger
-description: "[cyan]Makes [yellow]Slag [cyan]from [yellow]copper[cyan]."
+description: "[cyan]Makes [yellow]Scrap [cyan]from [yellow]copper[cyan]."
 size: 2
 hasItems: true
 craftTime: 10
@@ -18,4 +18,4 @@ requirements: [
 category: crafting
 alwaysUnlocked: true
 research: kiln
-outputItem: slag/1
+outputItem: scrap/1
