@@ -18,4 +18,4 @@ requirements: [
 category: crafting
 alwaysUnlocked: true
 research: kiln
-outputItem: Slag/1
+outputItem: slag/1
