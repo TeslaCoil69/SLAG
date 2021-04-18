@@ -1,5 +1,5 @@
 type: GenericCrafter
-name: Fabber
+name: maximus
 description: "[cyan]Makes [yellow]surge alloy [cyan]from [yellow]copper[cyan]."
 size: 2
 hasItems: true
