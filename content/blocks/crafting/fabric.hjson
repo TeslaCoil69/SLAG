@@ -1,0 +1,21 @@
+type: GenericCrafter
+name: Fabber
+description: "[cyan]Makes [yellow]phase frabric [cyan]from [yellow]copper[cyan]."
+size: 2
+hasItems: true
+craftTime: 10
+updateEffect: pulverizeRed
+consumes: {
+  items: {
+    items: [
+      copper/1
+    ]
+  }
+}
+requirements: [
+  copper/1
+]
+category: crafting
+alwaysUnlocked: true
+research: kiln
+outputItem: phase-fabric/5
